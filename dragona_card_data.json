@@ -1,0 +1,939 @@
+[
+    {
+        "id": 1,
+        "name_jp": "タマタマ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046230_P_TAMATAMA.jpg",
+        "type": "포켓몬",
+        "name_kr": "아라리",
+        "image_path": "./stedeck_dragona/images/dragona1.jpg",
+        "text": [
+            "[기본]",
+            "(무) 증식진화",
+            "이 기술은, 선공 플레이어의 첫 차레에도 사용할수 있다. 이 포켓몬에서 진화하는 카드를, 자신의 덱에서 한장 골라, 이 포켓몬에 엊어서 진화시킨다. 그리고 덱을 섞는다."
+        ]
+    },
+    {
+        "id": 2,
+        "name_jp": "ネマシュ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046231_P_NEMASHIXYU.jpg",
+        "type": "포켓몬",
+        "name_kr": "자마슈",
+        "image_path": "./stedeck_dragona/images/dragona2.jpg",
+        "text": [
+            "[기본]",
+            "(무) 달라붙기 10"
+        ]
+    },
+    {
+        "id": 3,
+        "name_jp": "マシェード",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046232_P_MASHIEDO.jpg",
+        "type": "포켓몬",
+        "name_kr": "마셰이드",
+        "image_path": "./stedeck_dragona/images/dragona3.jpg",
+        "text": [
+            "[1진화]",
+            "특성 편한빛",
+            "이 포켓몬이 배틀필드에 있다면, 자신의 차레에 한번 사용할수 있다. 상대의 배틀포켓몬을 잠듦상태로 만든다.",
+            "(풀)(무) 스파이랄러쉬 60+",
+            "뒷면이 나올때 까지 코인을 던져, 앞면의 수 x 30데미지 추가"
+        ]
+    },
+    {
+        "id": 4,
+        "name_jp": "ダダリン",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046233_P_DADARIN.jpg",
+        "type": "포켓몬",
+        "name_kr": "타타륜",
+        "image_path": "./stedeck_dragona/images/dragona4.jpg",
+        "text": [
+            "[기본]",
+            "(무) 레스큐앵커",
+            "자신의 트래쉬에서 포켓몬을 2장까지 고르고, 상대에게 보여주고, 손패에 더한다",
+            "(풀)(무)(무) 파괴의분노 80",
+            "데미지를 주기 전에, 상대의 배틀포켓몬에 붙어있는 [포켓몬의도구]를 트래쉬한다."
+        ]
+    },
+    {
+        "id": 5,
+        "name_jp": "ザルード",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046234_P_ZARUDO.jpg",
+        "type": "포켓몬",
+        "name_kr": "자루도",
+        "image_path": "./stedeck_dragona/images/dragona5.jpg",
+        "text": [
+            "[기본]",
+            "(풀) 리프드레인 20",
+            "이 포켓몬의 HP를 20회복한다.",
+            "(풀)(풀)(무) 정글휩 80+",
+            "바란다면, 이 포켓몬에 붙어있는 에너지를 모두 손패로 돌리고, 80데미지 추가"
+        ]
+    },
+    {
+        "id": 6,
+        "name_jp": "ポワルン たいようのすがた",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046235_P_POWARUNTAIYOUNOSUGATA.jpg",
+        "type": "포켓몬",
+        "name_kr": "캐스퐁 태양의모습",
+        "image_path": "./stedeck_dragona/images/dragona6.jpg",
+        "text": [
+            "[기본]",
+            "(불) 태우기",
+            "상대의 배틀포켓몬을 화상상태로 한다",
+            "(불)(무) 서니어시스트 50",
+            "이 포켓몬에 붙어있는 에너지를 모두, 벤치포켓몬 1마리에 갈아단다"
+        ]
+    },
+    {
+        "id": 7,
+        "name_jp": "バオップ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046236_P_BAOPPU.jpg",
+        "type": "포켓몬",
+        "name_kr": "바오프",
+        "image_path": "./stedeck_dragona/images/dragona7.jpg",
+        "text": [
+            "[기본]",
+            "(불) 화염 20"
+        ]
+    },
+    {
+        "id": 8,
+        "name_jp": "バオッキー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046237_P_BAOKKI.jpg",
+        "type": "포켓몬",
+        "name_kr": "바오키",
+        "image_path": "./stedeck_dragona/images/dragona8.jpg",
+        "text": [
+            "[1진화]",
+            "(불) 더블스매쉬 70x",
+            "코인을 두번 던지고, 앞면의 수 x70 데미지"
+        ]
+    },
+    {
+        "id": 9,
+        "name_jp": "ウガツホムラ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046238_P_UGATSUHOMURA.jpg",
+        "type": "포켓몬",
+        "name_kr": "꿰뚫는화염",
+        "image_path": "./stedeck_dragona/images/dragona9.jpg",
+        "text": [
+            "[기본]",
+            "(불) 찔러쓰러트리기 30",
+            "(불)(불)(무) 염상돌격 100+",
+            "상대의 프라이즈의 남은 장수가 4장 이하라면, 70데미지 추가"
+        ]
+    },
+    {
+        "id": 10,
+        "name_jp": "フリージオ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046239_P_FURIJIO.jpg",
+        "type": "포켓몬",
+        "name_kr": "프리지오",
+        "image_path": "./stedeck_dragona/images/dragona10.jpg",
+        "text": [
+            "[기본]",
+            "(물) 콜사인",
+            "자신의 덱에서 포켓몬을 1장 골라, 상대에서 보이고, 손패에 더한다. 그리고 덱을 섞는다.",
+            "(물) 냉동빔 30",
+            "코인을 1번던져 앞면이라면, 상대의 배틀포켓몬을 마비상태로 한다."
+        ]
+    },
+    {
+        "id": 11,
+        "name_jp": "ブラックキュレムex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046240_P_BURAKKUKIXYUREMUEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "블랙큐레무 ex",
+        "image_path": "./stedeck_dragona/images/dragona11.jpg",
+        "text": [
+            "[기본, 포켓몬ex]",
+            "(무)(무)(무) 아이스에이지 90",
+            "상대의 배틀포켓몬이 (드)포켓몬이라면, 그 포켓몬을 마비상태로 한다.",
+            "(물)(물)(무)(무) 블랙프로스트 250",
+            "이 포켓몬에도 30데미지"
+        ]
+    },
+    {
+        "id": 12,
+        "name_jp": "ハギギシリ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046241_P_HAGIGISHIRI.jpg",
+        "type": "포켓몬",
+        "name_kr": "치갈기",
+        "image_path": "./stedeck_dragona/images/dragona12.jpg",
+        "text": [
+            "[기본]",
+            "특성 반격",
+            "이 포켓몬이, 배틀필드에서 상대 포켓몬에게 기술의 데미지를 받을때, 기술을 사용한 포켓몬에게 데미지카운터를 30 엊는다.",
+            "(물)(무) 물어뜯기 50",
+            "다음 상대의 차레, 이 기술을 받은 포켓몬은 후퇴할수 없다."
+        ]
+    },
+    {
+        "id": 13,
+        "name_jp": "クワッス",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046242_P_KUWASSU.jpg",
+        "type": "포켓몬",
+        "name_kr": "꾸왁스",
+        "image_path": "./stedeck_dragona/images/dragona13.jpg",
+        "text": [
+            "[기본]",
+            "(물) 제비반환 10+",
+            "코인을 1번 던져 앞면이라면 20데미지 추가"
+        ]
+    },
+    {
+        "id": 14,
+        "name_jp": "ウェルカモ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046243_P_UERUKAMO.jpg",
+        "type": "포켓몬",
+        "name_kr": "아꾸왁",
+        "image_path": "./stedeck_dragona/images/dragona14.jpg",
+        "text": [
+            "[1진화]",
+            "(물) 아쿠아제트 40"
+        ]
+    },
+    {
+        "id": 15,
+        "name_jp": "ウェーニバル",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046244_P_UENIBARU.jpg",
+        "type": "포켓몬",
+        "name_kr": "웨이니발",
+        "image_path": "./stedeck_dragona/images/dragona15.jpg",
+        "text": [
+            "[2진화]",
+            "특성 업템포",
+            "자신의 차레에, 자신의 손패를 한장 덱의 아래로 되돌린다면 한번 사용할수 있다. 자신의 손패가 5장이 되도록 덱을 뽑는다.",
+            "(물)(무) 하이드로스플래쉬 120"
+        ]
+    },
+    {
+        "id": 16,
+        "name_jp": "アルクジラ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046245_P_ARUKUJIRA.jpg",
+        "type": "포켓몬",
+        "name_kr": "터벅고래",
+        "image_path": "./stedeck_dragona/images/dragona16.jpg",
+        "text": [
+            "[기본]",
+            "(물)(무) 드레인핀 20",
+            "이 포켓몬의 HP를 20회복한다"
+        ]
+    },
+    {
+        "id": 17,
+        "name_jp": "ハルクジラ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046246_P_HARUKUJIRA.jpg",
+        "type": "포켓몬",
+        "name_kr": "우락고래",
+        "image_path": "./stedeck_dragona/images/dragona17.jpg",
+        "text": [
+            "[1진화]",
+            "특성 튼튼바디",
+            "이 포켓몬이 받는 기술의 데미지은 -30된다",
+            "(물)(무)(무)(무) 데인저마우스 150"
+        ]
+    },
+    {
+        "id": 18,
+        "name_jp": "ムチュール",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046247_P_MUCHIXYURU.jpg",
+        "type": "포켓몬",
+        "name_kr": "뽀뽀라",
+        "image_path": "./stedeck_dragona/images/dragona18.jpg",
+        "text": [
+            "[기본]",
+            "(0코) 룬룬키스",
+            "자신의 덱에서 기본 (초) 에너지를 2장까지 고르고, 벤치포켓몬 1마리에게 붙인다. 그리고 덱을 섞는다."
+        ]
+    },
+    {
+        "id": 19,
+        "name_jp": "ラティアスex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046248_P_RATEIASUEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "라티아스 ex",
+        "image_path": "./stedeck_dragona/images/dragona19.jpg",
+        "text": [
+            "[기본]",
+            "특성 스카이라인",
+            "이 포켓몬이 있을때, 자신의 기본 포켓몬 전원의 후퇴 에너지가 전부 없어진다.",
+            "(초)(초)(무) 무한의칼날 200",
+            "다음의 자신차레, 이 포켓몬은 기술을 사용할수 없다."
+        ]
+    },
+    {
+        "id": 20,
+        "name_jp": "ラティオス",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046249_P_RATEIOSU.jpg",
+        "type": "포켓몬",
+        "name_kr": "라티오스",
+        "image_path": "./stedeck_dragona/images/dragona20.jpg",
+        "text": [
+            "[기본]",
+            "(초)(무) 직격비행",
+            "상대의 포켓몬 한마리에게 50데미지 (벤치는 약점, 저항력을 계산하지 않는다)",
+            "(초)(초)(무) 제트헤드 110"
+        ]
+    },
+    {
+        "id": 21,
+        "name_jp": "カプ・テテフ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046250_P_KAPUTETEFU.jpg",
+        "type": "포켓몬",
+        "name_kr": "카푸나비나",
+        "image_path": "./stedeck_dragona/images/dragona21.jpg",
+        "text": [
+            "[기본]",
+            "(무)(무) 어지럽히기 20",
+            "상대의 배틀 포켓몬을 혼란상태로 한다",
+            "(초)(무)(무) 멘탈크래쉬 90+",
+            "상대의 배틀 포켓몬이 혼란상태라면 90데미지 추가"
+        ]
+    },
+    {
+        "id": 22,
+        "name_jp": "ヒラヒナ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046251_P_HIRAHINA.jpg",
+        "type": "포켓몬",
+        "name_kr": "하느라기",
+        "image_path": "./stedeck_dragona/images/dragona22.jpg",
+        "text": [
+            "[기본]",
+            "(무) 튀어서피하기 10",
+            "코인을 한번 던져서 앞면이라면, 다음 상대의 차례, 이 포켓몬은 기술의 데미지와 효과를 받지 않는다."
+        ]
+    },
+    {
+        "id": 23,
+        "name_jp": "クエスパトラ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046252_P_KUESUPATORA.jpg",
+        "type": "포켓몬",
+        "name_kr": "클레스퍼트라",
+        "image_path": "./stedeck_dragona/images/dragona23.jpg",
+        "text": [
+            "[1진화]",
+            "(무) 미스틱아이",
+            "상대의 진화포켓몬을 한마리 고르고, 진화카드를 한장 때어내서 퇴화시킨다. 때어낸 카드는 상대의 손패로 돌아간다",
+            "(초)(무) 스파이럴드레인 60",
+            "이 포켓몬의 HP를 30회복한다"
+        ]
+    },
+    {
+        "id": 24,
+        "name_jp": "コレクレー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046253_P_KOREKURE.jpg",
+        "type": "포켓몬",
+        "name_kr": "모으령",
+        "image_path": "./stedeck_dragona/images/dragona24.jpg",
+        "text": [
+            "[기본]",
+            "(무) 작은심부름",
+            "자신의 덱에서 기본에너지를 2장까지 고르고 손패에 더한다. 그리고 덱을 섞는다.",
+            "(무)(무)(무) 몸통박치기 50"
+        ]
+    },
+    {
+        "id": 25,
+        "name_jp": "ナックラー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046254_P_NAKKURA.jpg",
+        "type": "포켓몬",
+        "name_kr": "톱치",
+        "image_path": "./stedeck_dragona/images/dragona25.jpg",
+        "text": [
+            "[기본]",
+            "(무) 동료부르기",
+            "자신의 덱에서 기본포켓몬을 2장까지 골라서 벤치에 놓는다. 그리고 덱을 섞는다.",
+            "(격)(무) 물기 20"
+        ]
+    },
+    {
+        "id": 26,
+        "name_jp": "ビブラーバ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046255_P_BIBURABA.jpg",
+        "type": "포켓몬",
+        "name_kr": "비브라바",
+        "image_path": "./stedeck_dragona/images/dragona26.jpg",
+        "text": [
+            "[1진화]",
+            "(무) 싫은소리",
+            "다음 자신의 차레, 이 기술을 받은 포켓몬이 받는 데미지가 +50된다",
+            "(격)(무) 커터윈드 50"
+        ]
+    },
+    {
+        "id": 27,
+        "name_jp": "フライゴンex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046256_P_FURAIGONEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "플라이곤 ex",
+        "image_path": "./stedeck_dragona/images/dragona27.jpg",
+        "text": [
+            "[2진화, 포켓몬ex]",
+            "(격) 스톰백 130",
+            "바란다면, 이 포켓몬을 벤치포켓몬과 교체한다",
+            "(물)(격)(강) 페리도트소닉",
+            "상대의 포켓몬ex,V 전원에게 100 데미지. 이 기술의 데미지는 약점,저항력을 계산하지 않는다."
+        ]
+    },
+    {
+        "id": 28,
+        "name_jp": "モグリュー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046257_P_MOGURIXYU.jpg",
+        "type": "포켓몬",
+        "name_kr": "두더류",
+        "image_path": "./stedeck_dragona/images/dragona28.jpg",
+        "text": [
+            "[기본]",
+            "(무) 파고파고",
+            "상대의 덱을 위에서 한장 트래쉬한다.",
+            "(격) 진흙뿌리기 10"
+        ]
+    },
+    {
+        "id": 29,
+        "name_jp": "ドリュウズ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046258_P_DORIXYUUZU.jpg",
+        "type": "포켓몬",
+        "name_kr": "몰드류",
+        "image_path": "./stedeck_dragona/images/dragona29.jpg",
+        "text": [
+            "[1진화]",
+            "(무) 구멍파기클로 20",
+            "상대의 덱을 위에서 한장 트래쉬한다.",
+            "(격)(무) 드릴스매쉬 60+",
+            "자신의 벤치에 (강)포켓몬이 있다면 80데미지 추가"
+        ]
+    },
+    {
+        "id": 30,
+        "name_jp": "ランドロス",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046259_P_RANDOROSU.jpg",
+        "type": "포켓몬",
+        "name_kr": "랜드로스",
+        "image_path": "./stedeck_dragona/images/dragona30.jpg",
+        "text": [
+            "[기본]",
+            "(격) 기합주먹 30",
+            "자신의 트래쉬에서 에너지를 한장 고르고, 이 포켓몬에 붙인다",
+            "(격)(무)(무)(무) 버스터스윙 130",
+            "이 기술의 데미지는 저항력을 계산하지 않는다."
+        ]
+    },
+    {
+        "id": 31,
+        "name_jp": "ナゲツケサル",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046260_P_NAGETSUKESARU.jpg",
+        "type": "포켓몬",
+        "name_kr": "내던숭이",
+        "image_path": "./stedeck_dragona/images/dragona31.jpg",
+        "text": [
+            "[기본]",
+            "(격)(무) 연계스로 20x",
+            "자신의 필드의 기본포켓몬의 수x20데미지"
+        ]
+    },
+    {
+        "id": 32,
+        "name_jp": "タタッコ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046261_P_TATAKKO.jpg",
+        "type": "포켓몬",
+        "name_kr": "때때무노",
+        "image_path": "./stedeck_dragona/images/dragona32.jpg",
+        "text": [
+            "[기본]",
+            "(격) 약간파고들기 30",
+            "이 포켓몬에도 10 데미지"
+        ]
+    },
+    {
+        "id": 33,
+        "name_jp": "オトスパス",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046262_P_OTOSUPASU.jpg",
+        "type": "포켓몬",
+        "name_kr": "케오퍼스",
+        "image_path": "./stedeck_dragona/images/dragona33.jpg",
+        "text": [
+            "[1진화]",
+            "(격) 춉 40",
+            "(격)(격)(무) 텐타클레이지 130",
+            "이 기술은 이 포켓몬에 데미지 카운터가 엊어져 있다면, (격)에너지 1개로 사용할수 있다."
+        ]
+    },
+    {
+        "id": 34,
+        "name_jp": "エアームド",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046263_P_EAMUDO.jpg",
+        "type": "포켓몬",
+        "name_kr": "무장조",
+        "image_path": "./stedeck_dragona/images/dragona34.jpg",
+        "text": [
+            "[기본]",
+            "(강)(무) 강철날개 50",
+            "다음 상대차례, 이 포켓몬이 받는 기술의 데미지는 -30 된다"
+        ]
+    },
+    {
+        "id": 35,
+        "name_jp": "クレッフィ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046264_P_KUREFFUI.jpg",
+        "type": "포켓몬",
+        "name_kr": "클레피",
+        "image_path": "./stedeck_dragona/images/dragona35.jpg",
+        "text": [
+            "[기본]",
+            "(무) 끼워넣기드로",
+            "자신의 손패를 한장 트래쉬한다. 그 후, 자신의 덱에서 두장 뽑는다",
+            "(무) 걸치기 20"
+        ]
+    },
+    {
+        "id": 36,
+        "name_jp": "ジュラルドン",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046265_P_JIXYURARUDON.jpg",
+        "type": "포켓몬",
+        "name_kr": "두랄루돈",
+        "image_path": "./stedeck_dragona/images/dragona36.jpg",
+        "text": [
+            "[기본]",
+            "(강)(강) 진검승부 50",
+            "(강)(강)(강) 듀랄빔 130",
+            "이 포켓몬에 붙어있는 에너지를 두개 고르고, 트래쉬한다"
+        ]
+    },
+    {
+        "id": 37,
+        "name_jp": "ブリジュラスex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046266_P_BURIJIXYURASUEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "브리두라스 ex",
+        "image_path": "./stedeck_dragona/images/dragona37.jpg",
+        "text": [
+            "[1진화, 포켓몬ex]",
+            "특성 합금빌드",
+            "자신의 차레에, 이 카드를 손패에서 내서 진화지켰을때 한번 사용할수 있다. 자신의 트래쉬에서 기본 (강) 에너지를 2장까지 고르고, 자신의 (강) 포켓몬에게 원하는데로 붙인다.",
+            "(강)(강)(강) 메탈디펜더 220",
+            "다음의 자신차레, 이 포켓몬의 약점은 모두 사라진다"
+        ]
+    },
+    {
+        "id": 38,
+        "name_jp": "サーフゴー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046267_P_SAFUGO.jpg",
+        "type": "포켓몬",
+        "name_kr": "타부자고",
+        "image_path": "./stedeck_dragona/images/dragona38.jpg",
+        "text": [
+            "[1진화]",
+            "(강) 리치스트라이크 30+",
+            "다음 차레, 이 포켓몬이 모으령에서 진화했다면, 90데미지 추가",
+            "(무)(무)(무) 서프리턴 100",
+            "원한다면, 이 포켓몬과, 붙어있는 모든 카드를 자신의 덱에 되돌리고 섞는다"
+        ]
+    },
+    {
+        "id": 39,
+        "name_jp": "テツノカシラ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046268_P_TETSUNOKASHIRA.jpg",
+        "type": "포켓몬",
+        "name_kr": "무쇠감투",
+        "image_path": "./stedeck_dragona/images/dragona39.jpg",
+        "text": [
+            "[기본]",
+            "(강)(무) 데리트슬래시 40+",
+            "상대의 벤치포켓몬의 수가 3마리 이상이라면 80데미지 추가",
+            "(강)(무)(무) 슬라이스플레이드 100"
+        ]
+    },
+    {
+        "id": 40,
+        "name_jp": "アローラ ナッシーex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046269_P_ARORANASSHIEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "알로라나시 ex",
+        "image_path": "./stedeck_dragona/images/dragona40.jpg",
+        "text": [
+            "[1진화]",
+            "(풀)(물) 트로피칼피버 150",
+            "자신의 손패에서 기본에너지를 원하는데로 고르고, 자신의 포켓몬에게 원하는데로 붙인다",
+            "(풀)(물)(격) 붕붕스펜",
+            "코인을 한번 던져서 앞면이라면, 상대의 배틀필드의 기본포켓몬을 기절시킨다. 뒷면이라면, 상대의 벤치의 기본포켓몬을 하나 골라서 기절시킨다."
+        ]
+    },
+    {
+        "id": 41,
+        "name_jp": "チルタリス",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046270_P_CHIRUTARISU.jpg",
+        "type": "포켓몬",
+        "name_kr": "파비코리",
+        "image_path": "./stedeck_dragona/images/dragona41.jpg",
+        "text": [
+            "[1진화]",
+            "(물) 해밍차지",
+            "자신의 덱에서 기본에너지를 두장까지 고르고, 자신의 포켓몬에게 원하는데로 붙인다. 그리도 덱을 섞는다.",
+            "(물)(강) 코튼윙 100",
+            "코인을 1번 던져서 앞면이라면, 다음 자신의 차레, 이 포켓몬은 기술의 데미지를 입지 않는다."
+        ]
+    },
+    {
+        "id": 42,
+        "name_jp": "ディアルガ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046271_P_DEIARUGA.jpg",
+        "type": "포켓몬",
+        "name_kr": "디아루가",
+        "image_path": "./stedeck_dragona/images/dragona42.jpg",
+        "text": [
+            "[기본]",
+            "(무) 타임컨트롤",
+            "자신의 덱에서 원하는 카드를 두장 고른다. 남은 덱을 섞고, 고른 카드를 원하는 순서로 덱의 위에 놓는다.",
+            "(초)(강)(무) 버스터테일 160"
+        ]
+    },
+    {
+        "id": 43,
+        "name_jp": "パルキア",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046272_P_PARUKIA.jpg",
+        "type": "포켓몬",
+        "name_kr": "펄기아",
+        "image_path": "./stedeck_dragona/images/dragona43.jpg",
+        "text": [
+            "[기본]",
+            "(초)(물) 스페이스크래쉬 40x",
+            "이 포켓몬에 붙어있는 기본에너지의 수x40데미지"
+        ]
+    },
+    {
+        "id": 44,
+        "name_jp": "バクガメス",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046273_P_BAKUGAMESU.jpg",
+        "type": "포켓몬",
+        "name_kr": "폭거북스",
+        "image_path": "./stedeck_dragona/images/dragona44.jpg",
+        "text": [
+            "[기본]",
+            "(불) 태워버리기",
+            "상대의 배틀필듸의 포켓몬ex에 붙어있는 에너지를 1개 골라서 트래쉬한다",
+            "(격)(무)(무) 폭력스탬프 100"
+        ]
+    },
+    {
+        "id": 45,
+        "name_jp": "カジッチュ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046274_P_KAJITCHIXYU.jpg",
+        "type": "포켓몬",
+        "name_kr": "과사삭벌레",
+        "image_path": "./stedeck_dragona/images/dragona45.jpg",
+        "text": [
+            "[기본]",
+            "(무) 영양소",
+            "자신의 포켓몬 한마리의 HP를 30회복시킨다",
+            "(풀)(화) 쓰러트리기 20+",
+            "코인을 한번 던져서 앞면이라면 30데미지 추가"
+        ]
+    },
+    {
+        "id": 46,
+        "name_jp": "アップリュー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046275_P_APPURIXYU.jpg",
+        "type": "포켓몬",
+        "name_kr": "애프룡",
+        "image_path": "./stedeck_dragona/images/dragona46.jpg",
+        "text": [
+            "[1진화]",
+            "(무) 사워스핏 20x",
+            "상대 배틀포켓몬에 엊혀있는 데미지카운터의 수x20데미지",
+            "(풀)(불) 스피드비행 70"
+        ]
+    },
+    {
+        "id": 47,
+        "name_jp": "タルップル",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046276_P_TARUPPURU.jpg",
+        "type": "포켓몬",
+        "name_kr": "단지래플",
+        "image_path": "./stedeck_dragona/images/dragona47.jpg",
+        "text": [
+            "[1진화]",
+            "(무)(무) 스위트멜트 50",
+            "다음 상대의 차레, 이 기술을 받은 포켓몬은 기술을 사용할 수 없다",
+            "(풀)(불) 와일드태클 130",
+            "이 포켓몬에도 20데미지"
+        ]
+    },
+    {
+        "id": 48,
+        "name_jp": "チルット",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046277_P_CHIRUTTO.jpg",
+        "type": "포켓몬",
+        "name_kr": "파비코",
+        "image_path": "./stedeck_dragona/images/dragona48.jpg",
+        "text": [
+            "[기본]",
+            "(무) 챠밍보이스 10",
+            "상대의 배틀포켓몬을 혼란상태로 한다"
+        ]
+    },
+    {
+        "id": 49,
+        "name_jp": "ワシボン",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046278_P_WASHIBON.jpg",
+        "type": "포켓몬",
+        "name_kr": "수리둥보",
+        "image_path": "./stedeck_dragona/images/dragona49.jpg",
+        "text": [
+            "[기본]",
+            "(무)(무) 날개치기 30"
+        ]
+    },
+    {
+        "id": 50,
+        "name_jp": "ウォーグル",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046279_P_UOGURU.jpg",
+        "type": "포켓몬",
+        "name_kr": "워글",
+        "image_path": "./stedeck_dragona/images/dragona50.jpg",
+        "text": [
+            "[1진화]",
+            "(무)(무) 끌어내기",
+            "상대의 벤치포켓몬을 한마리 골라서, 배틀포켓몬과 교체시킨다. 그 후, 새로 나온 포켓몬에게 40데미지",
+            "(무)(무)(무) 블래스트윈드 120"
+        ]
+    },
+    {
+        "id": 51,
+        "name_jp": "モトトカゲex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046280_P_MOTOTOKAGEEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "모토마 ex",
+        "image_path": "./stedeck_dragona/images/dragona51.jpg",
+        "text": [
+            "[기본]",
+            "(무)(무)(무) 브래이크스루 130",
+            "상대의 벤치포켓몬 한마리에도 30데미지 (벤치는 약점, 저항력을 계산하지 않는다)",
+            "(풀)(불)(초) 지르콘로드 180",
+            "바란다면 자신의 덱을 5장 뽑는다"
+        ]
+    },
+    {
+        "id": 52,
+        "name_jp": "エネルギー転送PRO",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046281_T_ENERUGITENSOUPRO.jpg",
+        "type": "아이템",
+        "name_kr": "에너지전송PRO",
+        "image_path": "./stedeck_dragona/images/dragona52.jpg",
+        "text": [
+            "[아이템, 에이스스펙]",
+            "자신의 덱에서 각각 다른 타입의 기본에너지를 원하는 대로 고르고, 상대에게 보여주고, 손패에 더한다. 그리고 덱을 섞는다"
+        ]
+    },
+    {
+        "id": 53,
+        "name_jp": "おたすけベル",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046282_T_OTASUKEBERU.jpg",
+        "type": "아이템",
+        "name_kr": "도움벨",
+        "image_path": "./stedeck_dragona/images/dragona53.jpg",
+        "text": [
+            "[아이템]",
+            "이 카드는 후공 플레이어의 첫 차레밖에 사용할수 없다",
+            "자신의 덱에서 서포트를 한장 골라, 상대에게 보여주고 손패에 더한다. 그리고 덱을 섞는다."
+        ]
+    },
+    {
+        "id": 54,
+        "name_jp": "ダークボール",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046283_T_DAKUBORU.jpg",
+        "type": "아이템",
+        "name_kr": "다크볼",
+        "image_path": "./stedeck_dragona/images/dragona54.jpg",
+        "text": [
+            "[아이템]",
+            "자신의 덱을 아래에서 7장 보고, 그중에서 포켓몬을 한장 골라, 상대에게 보여주고 손패에 더한다. 남은 카드는 덱에 되돌리고 섞는다."
+        ]
+    },
+    {
+        "id": 55,
+        "name_jp": "ぼうがいレター",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046284_T_BOUGAIRETA.jpg",
+        "type": "아이템",
+        "name_kr": "방해편지",
+        "image_path": "./stedeck_dragona/images/dragona55.jpg",
+        "text": [
+            "[아이템]",
+            "상대는 상대 자신의 손패의 수를 센 다음, 모두 뒷면으로 해서 섞어서 덱의 맨 아래로 돌린다. 그후, 상대는 되돌린 장수만큼 덱을 섞는다."
+        ]
+    },
+    {
+        "id": 56,
+        "name_jp": "メガトンブロアー",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046285_T_MTONBUROA.jpg",
+        "type": "아이템",
+        "name_kr": "메가톤블로어",
+        "image_path": "./stedeck_dragona/images/dragona56.jpg",
+        "text": [
+            "[아이템, 에이스스펙]",
+            "상대 포켓몬 전원에 붙어있는 포켓몬의 도구와 기본에너지, 필드에 있는 스타디움을 모두 트래쉬한다."
+        ]
+    },
+    {
+        "id": 57,
+        "name_jp": "竜の秘薬",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046286_T_RIXYUUNOHIYAKU.jpg",
+        "type": "아이템",
+        "name_kr": "용의비약",
+        "image_path": "./stedeck_dragona/images/dragona57.jpg",
+        "text": [
+            "[아이템]",
+            "자신의 배틀필드의 (드)포켓몬의 HP를 60회복한다"
+        ]
+    },
+    {
+        "id": 58,
+        "name_jp": "イトケのみ",
+        "type_jp": "ポケモンのどうぐ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046287_T_ITOKENOMI.jpg",
+        "type": "포켓몬의 도구",
+        "name_kr": "꼬시개열매",
+        "image_path": "./stedeck_dragona/images/dragona58.jpg",
+        "text": [
+            "[포켓몬의 도구]",
+            "이 카드를 달고있는 포켓몬이 상대의 (물)포켓몬에게 기술의 데미지를 받았을때, 그 데미지를 -60하고, 이 카드를 트래쉬한다."
+        ]
+    },
+    {
+        "id": 59,
+        "name_jp": "カウンターゲイン",
+        "type_jp": "ポケモンのどうぐ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046288_T_KAUNTAGEIN.jpg",
+        "type": "포켓몬의 도구",
+        "name_kr": "카운터게인",
+        "image_path": "./stedeck_dragona/images/dragona59.jpg",
+        "text": [
+            "[포켓몬의 도구]",
+            "자신의 프라이즈의 남은 장수가, 상대의 프라이즈의 남은 장수보다 많다면, 이 카드를 붙이고 있는 포켓몬이 사용하는 기술을 사용하기 위해 필요한 에너지가 (무)에너지 1개만큼 적어진다."
+        ]
+    },
+    {
+        "id": 60,
+        "name_jp": "カキツバタ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046289_T_KAKITSUBATA.jpg",
+        "type": "서포트",
+        "name_kr": "제빈",
+        "image_path": "./stedeck_dragona/images/dragona60.jpg",
+        "text": [
+            "[서포트]",
+            "자신의 덱을 위에서 7장보고, 그중에서 포켓몬과 트래이너지를 한장씩 고르고 상대에게 보여주고 손패에 더한다. 남은 카드는 덱에 되돌리고 섞는다"
+        ]
+    },
+    {
+        "id": 61,
+        "name_jp": "サーファー",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046290_T_SAFUA.jpg",
+        "type": "서포트",
+        "name_kr": "서퍼",
+        "image_path": "./stedeck_dragona/images/dragona61.jpg",
+        "text": [
+            "[서포트]",
+            "자신의 배틀포켓몬을 벤치포켓몬과 교체한다. 그후 자신의 손패가 5장이되도록 덱을 뽑는다."
+        ]
+    },
+    {
+        "id": 62,
+        "name_jp": "ドラセナ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046291_T_DORASENA.jpg",
+        "type": "서포트",
+        "name_kr": "드라세나",
+        "image_path": "./stedeck_dragona/images/dragona62.jpg",
+        "text": [
+            "[서포트]",
+            "자신의 손패를 모두 덱에 되돌리고 섞는다. 그 후, 코인을 한번 던져서 앞면이라면 8장, 뒷면이라면 3장 덱을 뽑는다"
+        ]
+    },
+    {
+        "id": 63,
+        "name_jp": "ルチアのアピール",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046292_T_RUCHIANOAPIRU.jpg",
+        "type": "서포트",
+        "name_kr": "루티아의 어필",
+        "image_path": "./stedeck_dragona/images/dragona63.jpg",
+        "text": [
+            "[서포트]",
+            "상대의 벤치의 기본포켓몬을 한장 고르고, 배틀포켓몬과 교체시킨다. 그 후, 새로나온 포켓몬을 혼란상태로 한다."
+        ]
+    },
+    {
+        "id": 64,
+        "name_jp": "リッチエネルギー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SV7a/046293_E_RITCHIENERUGI.jpg",
+        "type": "포켓몬",
+        "name_kr": "리치 에너지",
+        "image_path": "./stedeck_dragona/images/dragona64.jpg",
+        "text": [
+            "[특수에너지]",
+            "이 카드는 포켓몬에 붙어있다면 (무)에너지 1개분으로써 기능한다.",
+            "이 카드를 손패에서 포켓몬에 붙였을때, 자신의 덱을 4장 뽑는다."
+        ]
+    }
+]

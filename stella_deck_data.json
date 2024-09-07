@@ -1,0 +1,593 @@
+[
+    {
+        "id": 1,
+        "name_jp": "ロコン",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046184_P_ROKON.jpg",
+        "type": "포켓몬",
+        "name_kr": "식스테일",
+        "image_path": "./stedeck_dragona/images/stedeck1.jpg",
+        "text": [
+            "[기본]",
+            "(불) 돌진 30",
+            "이 포켓몬에도 10 데미지"
+        ]
+    },
+    {
+        "id": 2,
+        "name_jp": "キュウコン",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046185_P_KIXYUUKON.jpg",
+        "type": "포켓몬",
+        "name_kr": "나인테일",
+        "image_path": "./stedeck_dragona/images/stedeck2.jpg",
+        "text": [
+            "[1진화]",
+            "(불) 불꽃구슬 50",
+            "상대의 벤치포켓몬에게도 30데미지(벤치는 약점,저항력을 계산하지 않는다)"
+        ]
+    },
+    {
+        "id": 3,
+        "name_jp": "ホウオウ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046186_P_HOUOU.jpg",
+        "type": "포켓몬",
+        "name_kr": "칠색조",
+        "image_path": "./stedeck_dragona/images/stedeck3.jpg",
+        "text": [
+            "[기본]",
+            "(불)(무) 날개치기 50",
+            "(불)(불)(무) 샤인브레이즈 100+",
+            "자신의 벤치에 테라스탈 포켓몬이 있다면 100데미지 추가"
+        ]
+    },
+    {
+        "id": 4,
+        "name_jp": "オドリドリ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046187_P_ODORIDORI.jpg",
+        "type": "포켓몬",
+        "name_kr": "춤추새",
+        "image_path": "./stedeck_dragona/images/stedeck4.jpg",
+        "text": [
+            "[기본]",
+            "(불) 에어어시스트",
+            "자신의 트래쉬에서 기본에너지를 두장까지 고르고 벤치 포켓몬 한장에 붙인다",
+            "(불) 불꽃 30",
+            "이 포켓몬에 붙어있는 에너지를 하나 고르고 트래쉬한다"
+        ]
+    },
+    {
+        "id": 5,
+        "name_jp": "カルボウ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046188_P_KARUBOU.jpg",
+        "type": "포켓몬",
+        "name_kr": "카르본",
+        "image_path": "./stedeck_dragona/images/stedeck5.jpg",
+        "text": [
+            "[기본]",
+            "(불) 도깨비불 20"
+        ]
+    },
+    {
+        "id": 6,
+        "name_jp": "ソウブレイズex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046189_P_SOUBUREIZUEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "파라블레이즈 ex",
+        "image_path": "./stedeck_dragona/images/stedeck6.jpg",
+        "text": [
+            "[1진화, 포켓몬ex]",
+            "(불) 진염불꽃 30+",
+            "자신의 트래쉬에 있는 에너지의 장수 x20데미지 추가",
+            "(불)(초)(강) 아메지스트레이지 280",
+            "이 포켓몬에 붙어있는 에너지를 모두 트래쉬한다"
+        ]
+    },
+    {
+        "id": 7,
+        "name_jp": "シンボラー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046190_P_SHINBORA.jpg",
+        "type": "포켓몬",
+        "name_kr": "심보러",
+        "image_path": "./stedeck_dragona/images/stedeck7.jpg",
+        "text": [
+            "[기본]",
+            "(무) 더블드로우",
+            "자신의 덱에서 두장 뽑는다",
+            "(초)(무)(무) 염력 60",
+            "코인을 한번 던져서 앞면이라면 상대의 배틀포켓몬을 마비상태로 만든다"
+        ]
+    },
+    {
+        "id": 8,
+        "name_jp": "レジスチル",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046191_P_REJISUCHIRU.jpg",
+        "type": "포켓몬",
+        "name_kr": "레지스틸",
+        "image_path": "./stedeck_dragona/images/stedeck8.jpg",
+        "text": [
+            "[기본]",
+            "(강)(무) 레이징해머 60+",
+            "이 포켓몬에 얹어있는 데미지카운터의 수 x10데미지 추가"
+        ]
+    },
+    {
+        "id": 9,
+        "name_jp": "ホーホー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046192_P_HOHO.jpg",
+        "type": "포켓몬",
+        "name_kr": "부우부",
+        "image_path": "./stedeck_dragona/images/stedeck9.jpg",
+        "text": [
+            "[기본]",
+            "(무) 세번찌르기 10x",
+            "코인을 세번던져서 앞면이 나온 수 x10데미지"
+        ]
+    },
+    {
+        "id": 10,
+        "name_jp": "ヨルノズク",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046193_P_YORUNOZUKU.jpg",
+        "type": "포켓몬",
+        "name_kr": "야부엉",
+        "image_path": "./stedeck_dragona/images/stedeck10.jpg",
+        "text": [
+            "[1진화]",
+            "특성 보석찾기",
+            "자신의 차레에 이 포켓몬을 손에서 내서 진화시켰을때 자신의 필드에 테라스탈 포켓몬이 있다면 한번 사용할수 있다. 자신의 덱에서 트레이너즈를 두장까지 골라, 상대에게 보여주고 손패에 더한다. 그리고 덱을 섞는다. ",
+            "(무)(무) 스피드윙 60"
+        ]
+    },
+    {
+        "id": 11,
+        "name_jp": "すごいつりざお",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046194_T_SUGOITSURIZAO.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck11.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 12,
+        "name_jp": "テラスタルオーブ",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046195_T_TERASUTARUOBU.jpg",
+        "type": "아이템",
+        "name_kr": "테라스탈 오브",
+        "image_path": "./stedeck_dragona/images/stedeck12.jpg",
+        "text": [
+            "자신의 덱에서 테라스탈 포켓몬을 한장골라, 상대에게 보여주고 손패에 더한다. 그리고 덱을 섞는다"
+        ]
+    },
+    {
+        "id": 13,
+        "name_jp": "ネストボール",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046196_T_NESUTOBORU.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck13.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 14,
+        "name_jp": "パーフェクトミキサー",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046197_T_PAFUEKUTOMIKISA.jpg",
+        "type": "아이템",
+        "name_kr": "퍼펙트 믹서",
+        "image_path": "./stedeck_dragona/images/stedeck14.jpg",
+        "text": [
+            "[아이템, 에이스스펙]",
+            "자신의 덱에서 원하는 카드를 다섯장까지 고르고, 트래쉬한다. 그리고 덱을 섞는다"
+        ]
+    },
+    {
+        "id": 15,
+        "name_jp": "ハイパーボール",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046198_T_HAIPABORU.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck15.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 16,
+        "name_jp": "ポケギア3.0",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046199_T_POKEGIA30.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck16.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 17,
+        "name_jp": "ポケモンいれかえ",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046200_T_POKEMONIREKAE.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck17.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 18,
+        "name_jp": "アカマツ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046201_T_AKAMATSU.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck18.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 19,
+        "name_jp": "ナンジャモ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046202_T_NANJIXYAMO.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck19.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 20,
+        "name_jp": "ネモ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046203_T_NEMO.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck20.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 21,
+        "name_jp": "博士の研究",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046204_T_HAKASENOKENKIXYUU.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck21.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 22,
+        "name_jp": "ボスの指令",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLS/046205_T_BOSUNOSHIREI.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck22.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 23,
+        "name_jp": "マンタイン",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046206_P_MANTAIN.jpg",
+        "type": "포켓몬",
+        "name_kr": "만타인",
+        "image_path": "./stedeck_dragona/images/stedeck23.jpg",
+        "text": [
+            "[기본]",
+            "(물) 스플래시 30",
+            "(물)(무) 워터다이브",
+            "상대의 포켓몬 한마리에게 50데미지(벤치는 약점, 저항력계산을 하지 않는다)"
+        ]
+    },
+    {
+        "id": 24,
+        "name_jp": "サンダー",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046207_P_SANDA.jpg",
+        "type": "포켓몬",
+        "name_kr": "썬더",
+        "image_path": "./stedeck_dragona/images/stedeck24.jpg",
+        "text": [
+            "[기본]",
+            "(번)(무) 추격볼트 20+",
+            "상대의 배틀포켓몬에 얹혀있는 데미지카운터의 수x10데미지 추가",
+            "(번)(무)(무) 드릴부리 80"
+        ]
+    },
+    {
+        "id": 25,
+        "name_jp": "マリル",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046208_P_MARIRU.jpg",
+        "type": "포켓몬",
+        "name_kr": "마릴",
+        "image_path": "./stedeck_dragona/images/stedeck25.jpg",
+        "text": [
+            "[기본]",
+            "(초) 구르기태클 20"
+        ]
+    },
+    {
+        "id": 26,
+        "name_jp": "マリルリ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046209_P_MARIRURI.jpg",
+        "type": "포켓몬",
+        "name_kr": "마릴리",
+        "image_path": "./stedeck_dragona/images/stedeck26.jpg",
+        "text": [
+            "[1진화]",
+            "특성 반짝반짝방울",
+            "자신의 필드에 테라스탈 포켓몬이 있다면 이 포켓몬이 이판사판태클을 사용하는데 필요한 에너지는 (초)에너지 한개가 된다",
+            "(초)(초)(초)(초) 이판사판태클 230",
+            "이 포켓몬에도 50데미지"
+        ]
+    },
+    {
+        "id": 27,
+        "name_jp": "ニンフィアex",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046210_P_NINFUIAEX.jpg",
+        "type": "포켓몬",
+        "name_kr": "님피아 ex",
+        "image_path": "./stedeck_dragona/images/stedeck27.jpg",
+        "text": [
+            "[1진화, 포켓몬 ex]",
+            "(초)(무)(무) 매지컬챰 160",
+            "다음의 상대차레, 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 -100된다",
+            "(물)(번)(초) 엔젤라이트",
+            "상대의 벤치포켓몬을 두마리까지 고르고, 그 포켓몬과, 붙어있는 모든 카드를 덱으로 돌리고 섞은다. 이전 자신의 자레에, 자신의 포켓몬이 엔젤라이트를 사용했다면 이 기술은 사용할수 없다."
+        ]
+    },
+    {
+        "id": 28,
+        "name_jp": "ゼルネアス",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046211_P_ZERUNEASU.jpg",
+        "type": "포켓몬",
+        "name_kr": "제르네아스",
+        "image_path": "./stedeck_dragona/images/stedeck28.jpg",
+        "text": [
+            "[기본]",
+            "(초)(무) 오로라게인 30",
+            "이 포켓몬의 HP를 30회복한다",
+            "(초)(초)(무) 기가임팩트 130",
+            "다음 자신의 차레, 이 포켓몬은 기술을 사용할수 없다."
+        ]
+    },
+    {
+        "id": 29,
+        "name_jp": "オドリドリ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046212_P_ODORIDORI.jpg",
+        "type": "포켓몬",
+        "name_kr": "춤추새",
+        "image_path": "./stedeck_dragona/images/stedeck29.jpg",
+        "text": [
+            "[기본]",
+            "(초) 에네어시스트",
+            "자신의 트래쉬에서 기본에너지를 두개까지 고르고, 벤치포켓몬 한마리에게 붙인다.",
+            "(초)(무) 현혹댄스 20",
+            "상대의 배틀포켓몬을 혼란상태로한다"
+        ]
+    },
+    {
+        "id": 30,
+        "name_jp": "ミミッキュ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046213_P_MIMIKKIXYU.jpg",
+        "type": "포켓몬",
+        "name_kr": "따라큐",
+        "image_path": "./stedeck_dragona/images/stedeck30.jpg",
+        "text": [
+            "[기본]",
+            "특성 신비의부적",
+            "이 포켓몬은 상대의 포켓몬 ex,v의 기술의 데미지를 입지 않는다",
+            "(초)(무) 고스트아이",
+            "상대의 배틀포켓몬에게 데미지카운터를 7개 올린다"
+        ]
+    },
+    {
+        "id": 31,
+        "name_jp": "イーブイ",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046214_P_IBUI.jpg",
+        "type": "포켓몬",
+        "name_kr": "이브이",
+        "image_path": "./stedeck_dragona/images/stedeck31.jpg",
+        "text": [
+            "[기본]",
+            "특성 부스트진화",
+            "이 포켓몬은 배틀필드에 있는한, 자신의 첫 차레나, 낸 진후의 차레에도 진화 가능하다.",
+            "(무)(무) 돌격 30",
+            "이 포켓몬에게도 10데미지"
+        ]
+    },
+    {
+        "id": 32,
+        "name_jp": "カビゴン",
+        "type_jp": "ポケモン",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046215_P_KABIGON.jpg",
+        "type": "포켓몬",
+        "name_kr": "잠만보",
+        "image_path": "./stedeck_dragona/images/stedeck32.jpg",
+        "text": [
+            "[기본]",
+            "(무) 스파이크 드로우 20",
+            "자신의 덱을 한장 뽑는다",
+            "(무)(무)(무) 메가톤펀치 100"
+        ]
+    },
+    {
+        "id": 33,
+        "name_jp": "すごいつりざお",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046216_T_SUGOITSURIZAO.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck33.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 34,
+        "name_jp": "テラスタルオーブ",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046217_T_TERASUTARUOBU.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck34.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 35,
+        "name_jp": "ネストボール",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046218_T_NESUTOBORU.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck35.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 36,
+        "name_jp": "ハイパーボール",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046219_T_HAIPABORU.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck36.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 37,
+        "name_jp": "プレシャスキャリー",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046220_T_PURESHIXYASUKIXYARI.jpg",
+        "type": "아이템",
+        "name_kr": "프레셔스캐리어",
+        "image_path": "./stedeck_dragona/images/stedeck37.jpg",
+        "text": [
+            "[아이템, 에이스스펙]",
+            "자신의 덱에서 기본포켓몬을 원하는만큼 고르고, 벤치에 낸다. 그리고 덱을 섞는다."
+        ]
+    },
+    {
+        "id": 38,
+        "name_jp": "ポケギア3.0",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046221_T_POKEGIA30.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck38.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 39,
+        "name_jp": "ポケモンいれかえ",
+        "type_jp": "グッズ",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046222_T_POKEMONIREKAE.jpg",
+        "type": "아이템",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck39.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 40,
+        "name_jp": "アカマツ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046223_T_AKAMATSU.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck40.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 41,
+        "name_jp": "ナンジャモ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046224_T_NANJIXYAMO.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck41.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 42,
+        "name_jp": "ネモ",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046225_T_NEMO.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck42.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 43,
+        "name_jp": "博士の研究",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046226_T_HAKASENOKENKIXYUU.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck43.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    },
+    {
+        "id": 44,
+        "name_jp": "ボスの指令",
+        "type_jp": "サポート",
+        "image_url": "https://www.pokemon-card.com/assets/images/card_images/large/SVLN/046227_T_BOSUNOSHIREI.jpg",
+        "type": "서포트",
+        "name_kr": "번역필요",
+        "image_path": "./stedeck_dragona/images/stedeck44.jpg",
+        "text": [
+            "트레이너즈, 아이템"
+        ]
+    }
+]
